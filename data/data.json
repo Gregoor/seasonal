@@ -1,0 +1,747 @@
+{
+  "Gemüse": [
+    {
+      "name": "Aubergine",
+      "fresh": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Blumenkohl",
+      "fresh": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Grüne Bohne",
+      "fresh": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Dicke Bohne",
+      "fresh": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Brokkoli",
+      "fresh": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Butterrüben",
+      "fresh": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "store": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "name": "Champignon",
+      "fresh": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Erbse",
+      "fresh": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Fenchel",
+      "fresh": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "name": "Grünkohl",
+      "fresh": [
+        1,
+        2,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Gurke (Salatgurke)",
+      "fresh": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Kartoffel",
+      "fresh": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "store": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Kohlrabi",
+      "fresh": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Kürbis",
+      "fresh": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "store": [
+        1,
+        2,
+        12
+      ]
+    },
+    {
+      "name": "Lauch / Porree",
+      "fresh": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Lauch- / Frühlingszwiebel",
+      "fresh": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Mais",
+      "fresh": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Mangold",
+      "fresh": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Möhre / Karotte",
+      "fresh": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "store": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Paprika",
+      "fresh": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Pastinake",
+      "fresh": [
+        1,
+        2,
+        3,
+        9,
+        10,
+        11,
+        12
+      ],
+      "store": [
+        4
+      ]
+    },
+    {
+      "name": "Radieschen",
+      "fresh": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Rosenkohl",
+      "fresh": [
+        1,
+        2,
+        3,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Rote Bete",
+      "fresh": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "store": [
+        1,
+        2,
+        3,
+        4,
+        12
+      ]
+    },
+    {
+      "name": "Rotkohl",
+      "fresh": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "store": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12
+      ]
+    },
+    {
+      "name": "Schwarzwurzel",
+      "fresh": [
+        1,
+        2,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Spargel",
+      "fresh": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "name": "Spinat",
+      "fresh": [
+        3,
+        4,
+        5,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "name": "Spitzkohl",
+      "fresh": [
+        5,
+        6
+      ]
+    },
+    {
+      "name": "Staudensellerie",
+      "fresh": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Steckrübe",
+      "fresh": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "store": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "name": "Tomate",
+      "fresh": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Topinambur",
+      "fresh": [
+        1,
+        2,
+        3,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Weißkohl",
+      "fresh": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "store": [
+        1,
+        2,
+        3,
+        4,
+        12
+      ]
+    },
+    {
+      "name": "Wirsingkohl",
+      "fresh": [
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "store": [
+        3
+      ]
+    },
+    {
+      "name": "Zucchini",
+      "fresh": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Zuckerschote",
+      "fresh": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Zwiebel",
+      "fresh": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "store": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        11,
+        12
+      ]
+    }
+  ],
+  "Salate": [
+    {
+      "name": "Batavia",
+      "fresh": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Chicorée",
+      "fresh": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Eichblattsalat",
+      "fresh": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Eisbergsalat",
+      "fresh": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Endiviensalat",
+      "fresh": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Feldsalat",
+      "fresh": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Kopfsalat",
+      "fresh": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Lollo Rosso",
+      "fresh": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Portulak",
+      "fresh": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Radicchio",
+      "fresh": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "store": [
+        1,
+        2,
+        12
+      ]
+    },
+    {
+      "name": "Rucola",
+      "fresh": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "Obst": [
+    {
+      "name": "Apfel",
+      "fresh": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "store": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12
+      ]
+    },
+    {
+      "name": "Aprikose",
+      "fresh": [
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Birne",
+      "fresh": [
+        8,
+        9,
+        10
+      ],
+      "store": [
+        11,
+        12
+      ]
+    },
+    {
+      "name": "Blaubeeren / Heidelbeeren",
+      "fresh": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Brombeere",
+      "fresh": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Erdbeere",
+      "fresh": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "name": "Himbeere",
+      "fresh": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Holunderbeere / Flieder",
+      "fresh": [
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Johannisbeere",
+      "fresh": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Kirsche",
+      "fresh": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Mirabelle",
+      "fresh": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Pflaume",
+      "fresh": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Quitte",
+      "fresh": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "name": "Rhabarber",
+      "fresh": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "name": "Wassermelone",
+      "fresh": [
+        8,
+        9
+      ]
+    },
+    {
+      "name": "Weintraube",
+      "fresh": [
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Zwetschge",
+      "fresh": [
+        7,
+        8,
+        9,
+        10
+      ]
+    }
+  ]
+}
